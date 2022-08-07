@@ -7,9 +7,9 @@ html {
   font-family: "Montserrat", sans-serif;
 }
 body {
-  background-color: #25008a;
-  background-image: url("https://www.transparenttextures.com/patterns/gplay.png");
-  background: #eee;
+  background-color: rgb(212, 193, 243);
+  background-image: url("https://www.transparenttextures.com/patterns/notebook-dark.png");
+  /* background: #eee; */
   padding: 0 16px;
 }
 
